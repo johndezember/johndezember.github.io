@@ -14,13 +14,14 @@ pic: john-dezember.jpg  # Place a 200x200 picture inside /assets/img/ folder and
 
 # Contact links
 email: hello@johndezember.com # Add your Email address
-phone:  # Add your Phone number
+phone:  865-235-1003 # Add your Phone number
 website: johndezember.com # Add your website, do not add http://
 linkedin: johndezember# Add your Linkedin handle
 github: johndezember # Add your Github handle
 twitter: '@johndezember' # Add your Twitter handle
 youtube: johndezember
 instagram: johndezember
+facebook: johndezember
 
 # Tracker
 analytics: UA-5649310-6
