@@ -1,0 +1,52 @@
+title: John Dezember
+description: > # this means to ignore newlines until "baseurl:"
+  Thinker. Problem Solver. Web Developer.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://johndezember.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+blog_theme: dark # Or use dark
+
+# Profile information
+name: John Dezember
+tagline: Thinker. Problem solver. Web developer.
+about-description: # Add Discription
+pic: john-dezember.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+
+# Contact links
+email: hello@johndezember.com # Add your Email address
+phone:  # Add your Phone number
+website: johndezember.com # Add your website, do not add http://
+linkedin: johndezember# Add your Linkedin handle
+github: johndezember # Add your Github handle
+twitter: '@johndezember' # Add your Twitter handle
+youtube: johndezember
+instagram: johndezember
+
+# Tracker
+analytics: UA-5649310-6
+
+# Comments
+discus-identifier: # Add your Disqus identifier
+
+# Important settings
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
+    - assets/js
+    - assets/stylesheets
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+gems:
+  - jekyll-feed
+  - jekyll-assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+include: [_pages]
