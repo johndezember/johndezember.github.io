@@ -10,6 +10,7 @@ $gray-200: #c7c7c7;
 $gray-100: #f3f3f3;
 $white: #ffffff;
 $yellow: #F0F564;
+$primary-color: #42FF42;
 
 
 // Font
@@ -25,20 +26,20 @@ $section-about-background: $gray-500;
 $contact-list-color: $white;
 $base-color: $white;
 $menu-color-link: $white;
-$menu-background-link-hover: $yellow;
+$menu-background-link-hover: $primary-color;
 $menu-color-link-hover: $dark;
 $color-link: $gray-300;
 $page-title-color: $white;
 $about-tagline-color: $gray-300;
 $about-tagline-border: $gray-400;
-$border-color: $yellow;
+$border-color: $primary-color;
 
 
 // Blog colors
 $post-box-background: $gray-500;
 $post-link-color: $white;
 $rss-subscribe-color: $gray-300;
-$rss-subscribe-hover: $yellow;
+$rss-subscribe-hover: $primary-color;
 $article-list-color: $white;
 $post-item-border: $gray-400;
 
@@ -47,7 +48,7 @@ $post-container-background: $gray-500;
 $article-border: $gray-400;
 
 // Base
-$blockquote-border: $yellow;
+$blockquote-border: $primary-color;
 
 // Syntax
 $highlight-background: $dark;
