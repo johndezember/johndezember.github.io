@@ -1,8 +1,8 @@
 title: John Dezember
 description: > # this means to ignore newlines until "baseurl:"
   Thinker. Problem Solver. Web Developer.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://johndezember.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://johndezember.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
