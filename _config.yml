@@ -1,6 +1,6 @@
 title: John Dezember
 description: > # this means to ignore newlines until "baseurl:"
-  Thinker. Problem Solver. Web Developer.
+  Thinker. Problem solver. Coffee enthusiast. I make things for the internet and real life with pixels & power tools.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johndezember.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -8,7 +8,7 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: John Dezember
-tagline: Thinker. Problem solver. Web developer.
+tagline: Thinker. Problem solver. Coffee enthusiast. I make things for the internet and real life with pixels & power tools.
 about-description: # Add Discription
 pic: john-dezember.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
